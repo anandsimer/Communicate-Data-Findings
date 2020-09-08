@@ -36,3 +36,6 @@ This project is for the Data Analyst online course at the Udacity as my last pro
 4. `output_toggle.tpl`: javascript to convert the notebook into the html slides. 
 
 
+During the Analysis of the dataset, I wanted to look at visualisations and answers to the question what are the different users type and how is their ridership different in terms of the ride duration, how different in the way they access the bike, and preferred time of the day/month of year of their ridership. Also, while at it I also wanted to look at the impact of COVID-19 on the above visualisations and change in behaviour of both the users. 
+
+**Summary**: Subscriber and Customer are the two different types of the user of the Bay Wheels and they differ in the way they access the bike, when they access and how they access the bike and for how long. The answer to all these questions are available in the `slide_deck.ipynb` which also visualises the impact of the COVID-19 on the behaviour of the users and impact on their ridership.
