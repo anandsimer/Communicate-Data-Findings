@@ -33,3 +33,6 @@ This project is for the Data Analyst online course at the Udacity as my last pro
 1. `exploration.ipynb`: This is where the ground work of the Data Gathering, Data Assessing and Data Cleaning has been done and there is lot of rough work being done in terms of visualisations and has the observations defined. Not all the observations are meaningfull though, its more of a rough work. 
 2. `slide_deck.ipynb`: This is clean notebook with the subset of the visualisations from the `exploration.ipynb` notebook, with clear questions and observations.
 3. `slide_deck.slides.html`: This the navigable html page which contains all the headings, questions, answers and visualisation from the `slide_deck.ipynb` notebook. The notebook is converted using a javascript called `output_toggle.tpl`.
+4. `output_toggle.tpl`: javascript to convert the notebook into the html slides. 
+
+
