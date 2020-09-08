@@ -2,7 +2,7 @@
 This repository contains the anaysis of the dataset from the Bay Wheels which is bike sharing organisation based in the California, US. 
 This project is for the Data Analyst online course at the Udacity as my last project to complete the course. 
 
-**Title**: Bay Wheels Bike Sharing System Usage Pattern 2019/2020.
+**Title**: Bay Wheels Bike Sharing System Usage Pattern 2019/2020, <br/>
 **Data Range**: `September, 2019 to August, 2020`, <br/>
 **Data Source**: Data is made available to us by the Bay Wheels on their [website](https://s3.amazonaws.com/baywheels-data/index.html), <br/>
 **Data Format**: CSV formatted.
